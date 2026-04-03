@@ -7,4 +7,4 @@
 ![Docker](https://img.shields.io/badge/Docker-✓-blue)
 ![Maven](https://img.shields.io/badge/Maven-3.9.6-red)
 
-Este projeto foi construído seguindo o [tutorial](https://www.youtube.com/watch?v=71WGVa79BWE&t=147s&ab_channel=FernandaKipper%7CDev). O objetivo principal foi aprender a integrar Spring Boot, Docker e AWS S3.
+Este projeto foi construído seguindo o [tutorial](https://www.youtube.com/watch?v=71WGVa79BWE&t=147s&ab_channel=FernandaKipper%7CDev). O objetivo principal foi praticar integração entre Spring Boot, Docker e AWS S3.
